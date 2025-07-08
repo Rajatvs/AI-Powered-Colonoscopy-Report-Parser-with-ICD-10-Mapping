@@ -1,0 +1,25 @@
+{
+  "Clinical Terms": [
+    "chronic constipation",
+    "family history of colon cancer",
+    "sessile polyp",
+    "colonoscopy"
+  ],
+  "Anatomical Locations": [
+    "sigmoid colon",
+    "colon"
+  ],
+  "ICD-10": [
+    "K59.00",
+    "Z80.0",
+    "K63.5"
+  ],
+  "ICD-10 Descriptions": [
+    "Chronic constipation",
+    "Family history of colon cancer",
+    "Polyp of colon"
+  ],
+  "CPT": [],
+  "Modifiers": [],
+  "HCPCS": []
+}
