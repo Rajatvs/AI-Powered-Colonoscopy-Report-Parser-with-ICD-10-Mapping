@@ -1,0 +1,20 @@
+Patient Name: Alex Johnson
+Date: 8/15/2025
+Procedure: Colonoscopy
+Endoscopist: Sarah Lee, MD
+
+Indications:
+Chronic constipation (K59.00)
+Family history of colon cancer (Z80.0)
+
+Findings:
+Single 5 mm sessile polyp in the sigmoid colon. Removed completely with cold snare.
+Otherwise normal colon.
+
+Impression:
+5 mm sigmoid polyp (K63.5)
+Normal remainder of colon.
+
+Plan:
+Await pathology results.
+Recommend repeat colonoscopy in 5 years.
